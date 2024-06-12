@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prytula Oleksandr</h1>
-<h3 align="center">I am a passionate front-end developer focused on building responsive and user-friendly web applications. Currently exploring the wide world of web development and always ready to learn new technologies. I have experience working with modern frameworks and tools, which allows me to create high-quality and effective solutions for users.</h3>
+<h1 align="left">Hi 👋, I'm Prytula Oleksandr</h1>
+<h3 align="left">I am a passionate front-end developer focused on building responsive and user-friendly web applications. Currently exploring the wide world of web development and always ready to learn new technologies. I have experience working with modern frameworks and tools, which allows me to create high-quality and effective solutions for users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prytulaalexandr&label=Profile%20views&color=0e75b6&style=flat" alt="prytulaalexandr" /> </p>
 
