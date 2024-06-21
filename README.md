@@ -1,12 +1,6 @@
 <h1 align="left">Hi 👋, I'm Prytula Oleksandr</h1>
 <h3 align="left">I am a passionate front-end developer focused on building responsive and user-friendly web applications. Currently exploring the wide world of web development and always ready to learn new technologies. I have experience working with modern frameworks and tools, which allows me to create high-quality and effective solutions for users.</h3>
 
-- 🔭 I’m currently working on [Nice Gadgets](https://github.com/FS-MAR24-Code-Busters/react_phone-catalog)
-
-- 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PrytulaAlexandr](https://github.com/PrytulaAlexandr)
-
 - 📫 How to reach me **o.prytula.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
